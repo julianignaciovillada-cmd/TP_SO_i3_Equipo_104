@@ -11,4 +11,20 @@ git add .
 git commit -m "Hago merge"
 git push origin main
 
+RESPUESTAS ALFA
 
+git checkout main
+git merge rama-alfa
+git add .
+git commit -m "Resueltos conflictos de merge"
+git push origin main
+
+
+##################################################
+
+
+git checkout main
+git merge villada
+git add .
+git commit -m "Resueltos conflictos de merge"
+git push origin main
