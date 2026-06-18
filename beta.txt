@@ -1,0 +1,23 @@
+Nacho Villada
+Configuración IP de Windows
+
+
+Adaptador de Ethernet Ethernet 3:
+
+   Sufijo DNS específico para la conexión. . :
+   Dirección IPv6 . . . . . . . . . . : 2202:8710:8b75:dd01:c96d:ded7:a4e0:6471
+   Dirección IPv6 temporal. . . . . . : 2872:8018:8b65:d201:e3be:a378:88fe:8604
+   Vínculo: dirección IPv6 local. . . : fe80::1ebc:f7ed:f8c7:3c6a%9
+   Dirección IPv4. . . . . . . . . . . . . . : 152.168.1.41
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::4eab:f8ff:fe16:e9d0%9
+                                       132.118.1.1
+
+Adaptador de Ethernet Ethernet 4:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::4e64:37df:aea1:4ff3%96
+   Dirección IPv4. . . . . . . . . . . . . . : 199.161.563.1
+   Máscara de subred . . . . . . . . . . . . : 295.535.252.0
+   Puerta de enlace predeterminada . . . . . :
+11:36
