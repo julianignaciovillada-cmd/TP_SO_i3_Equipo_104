@@ -21,3 +21,32 @@ Adaptador de Ethernet Ethernet 4:
    Máscara de subred . . . . . . . . . . . . : 295.535.252.0
    Puerta de enlace predeterminada . . . . . :
 11:36
+
+Emiliano Nuñez
+11:40
+Configuración IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . : cpe.movistar.net
+   Dirección IPv4. . . . . . . . . . . . . . : 188.135.1.173
+   Máscara de subred . . . . . . . . . . . . : 251.251.251.0
+   Puerta de enlace predeterminada . . . . . : 129.186.1.0
+
+Adaptador de Ethernet Ethernet 4:
+
+   Sufijo DNS específico para la conexión. . :
+   Dirección IPv4. . . . . . . . . . . . . . : 129.186.1.0
+   Máscara de subred . . . . . . . . . . . . : 251.251.251.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de Ethernet Ethernet 2:
+
+   Estado de los medios. . . . . . . . . . . : medios ***********
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de Ethernet Conexión de red Bluetooth 2:
+
+   Estado de los medios. . . . . . . . . . . : medios ***********
+   Sufijo DNS específico para la conexión. . :
