@@ -1,9 +1,14 @@
 a-¿Cómo queda el máster después de estos cambios?
-Queda actualizado con los movimiento hechos por gamma y alfa
-b-¿Beta pudo ver todos los cambios que se realizaron?
-Si, pude ver todos los cambios realizados
-c-¿que debió hacer (todos los comandos) en el punto 5 para poder hacer el merge ?
+Queda actualizado con los cambios de alfa y gamma
 
-git checkout villada
-git pull origin rama actualizar
+b-¿Beta pudo ver todos los cambios que se realizaron?
+Si, pude ver los cambios realizados
+
+c-¿que debió hacer (todos los comandos) en el punto 5 para poder hacer el merge?
+git checkout main
 git merge villada
+git add .
+git commit -m "Hago merge"
+git push origin main
+
+
